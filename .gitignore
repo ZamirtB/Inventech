@@ -5,13 +5,6 @@
 __pycache__/
 *.pyc
 
-# Archivos temporales
-*.h5
-*.pkl
-*.keras
-
-# Datos
-data/
 
 # Notebooks checkpoints
 .ipynb_checkpoints/
